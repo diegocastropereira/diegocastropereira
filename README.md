@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 Me chamo Diego, tenho 19 anos<br>
 
 
