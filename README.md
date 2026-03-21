@@ -1,8 +1,8 @@
 # 🧑🏽‍💻 Diego Castro
 
-**`Desenvolvedor de Sistemas`**
+**`Graduando em Engenharia da Computação | Desenvolvedor de Sistemas`**
 
-Me chamo Diego Castro, tenho 21 anos e sou natural do Amazonas. Concluí o ensino médio no IFAM, com o curso técnico em Desenvolvimendo de Sistemas. Atualmente, estou estudando e me aventurando na linguagem Python. Gosto da  tecnologia de toda a sua versatilidade e poder de criar coisas excepcionais.
+Me chamo Diego Castro, tenho 22 anos, sou do Amazonas.
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
     <a href="https://github.com/diegocastropereira?tab=repositories&sort=stargazers">
