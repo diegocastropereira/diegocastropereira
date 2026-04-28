@@ -2,7 +2,23 @@
 
 **`Graduando em Engenharia da Computação | Desenvolvedor de Sistemas`**
 
-Me chamo Diego Castro, tenho 22 anos.
+# Olá, eu sou Diego 👨‍💻
+
+🎯 Objetivo: Conseguir minha primeira vaga em Suporte de TI  
+🛠️ Habilidades:
+- Instalação e configuração de Windows
+- Suporte técnico (hardware e software)
+- Redes básicas
+- Máquinas virtuais
+
+📂 Projetos em destaque:
+- Simulação de Suporte Técnico
+- Instalação de Máquina Virtual
+- Diagnóstico de Problemas em PC
+
+📫 Contato:
+- Email: diegocastro10032004@gmail.com
+- LinkedIn: https://www.linkedin.com/in/diegocastropereira/
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
     <a href="https://github.com/diegocastropereira?tab=repositories&sort=stargazers">
